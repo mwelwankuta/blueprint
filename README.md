@@ -1,4 +1,4 @@
-# Figma to Flutter Converter
+# Blueprint
 
 This tool converts Figma designs to Flutter code by exporting screens as PNG images and generating corresponding Flutter widget code using AI services (Claude or GPT).
 
